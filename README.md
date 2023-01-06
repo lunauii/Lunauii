@@ -1,4 +1,3 @@
-- @Lunauii
 - [My itch.io](https://lunaui.itch.io/)
 - [My carrd](https://lunaui.carrd.co/)
 
