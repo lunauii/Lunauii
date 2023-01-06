@@ -1,5 +1,5 @@
-[itch.io](https://lunaui.itch.io/) \n
-[carrd.co](https://lunaui.carrd.co/)
+- [itch.io](https://lunaui.itch.io/)
+- [carrd.co](https://lunaui.carrd.co/)
 
 
 <!---
