@@ -1,7 +1,5 @@
-- [My itch.io](https://lunaui.itch.io/)
-- [My carrd](https://lunaui.carrd.co/)
-
-Amateur game designer, part time stupid.
+[itch.io](https://lunaui.itch.io/)
+[carrd.co](https://lunaui.carrd.co/)
 
 
 <!---
