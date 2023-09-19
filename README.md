@@ -6,6 +6,7 @@
 
 supporter of FOSS development and programs ❤️
 
+
 currently learning:
 
 HTML/CSS/JS/SQL/React
