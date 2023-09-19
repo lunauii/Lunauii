@@ -5,6 +5,9 @@
 *amateur developer and artist*
 
 supporter of FOSS development and programs ❤️
+currently learning:_
+HTML/CSS/JS/SQL/React
+GDScript
 
 ### Software I use:
 
