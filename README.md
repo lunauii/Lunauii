@@ -3,9 +3,10 @@
 [github.io](https://lunauii.github.io)*
 ## Luna ☂️
 *amateur developer and artist*
+<br>
+part of [Studio Corgi](https://github.com/Studio-Corgi)
 
 supporter of FOSS development and programs ❤️
-part of [Studio Corgi](https://github.com/Studio-Corgi)
 
 currently learning: HTML/CSS/JS/SQL/React, GDScript
 
