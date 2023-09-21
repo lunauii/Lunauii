@@ -5,6 +5,7 @@
 *amateur developer and artist*
 
 supporter of FOSS development and programs ❤️
+part of [Studio Corgi](https://github.com/Studio-Corgi)
 
 currently learning: HTML/CSS/JS/SQL/React, GDScript
 
