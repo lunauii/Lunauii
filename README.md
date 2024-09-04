@@ -1,10 +1,8 @@
-*[itch.io](https://lunaui.itch.io/) | 
-[carrd.co](https://lunaui.carrd.co/) | 
-[github.io](https://lunauii.github.io)*
+*[website](https://lunaui.cc)*
 ## Luna ☂️
 *amateur developer and artist*
+Student @ BCIT CST
 <br>
-part of [Studio Corgi](https://github.com/Studio-Corgi)
 
 supporter of FOSS development and programs ❤️
 
@@ -19,7 +17,8 @@ __Art Programs__
 
 __Development Programs__
 - Godot
-- VSCode
+- Visual Studio Code
+- Jetbrains Rider
 
 <!---
 Lunauii/Lunauii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
