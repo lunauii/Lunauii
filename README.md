@@ -1,8 +1,7 @@
 *[website](https://lunaui.cc)*
 ## Luna ☂️
-*amateur developer and artist*
-Student @ BCIT CST
-<br>
+*amateur developer and artist* <br>
+Student @ BCIT CST<br>
 
 supporter of FOSS development and programs ❤️
 
