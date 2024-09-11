@@ -1,11 +1,9 @@
 *[website](https://lunaui.cc)*
 ## Luna ☂️
-*amateur developer and artist* <br>
-Student @ BCIT CST<br>
+__Angelo Santos__ <br>
+Student in CST @ BCIT<br>
 
 supporter of FOSS development and programs ❤️
-
-currently learning: HTML/CSS/JS/SQL/React, GDScript
 
 ### Software I use:
 
