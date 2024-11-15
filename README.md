@@ -1,6 +1,6 @@
 *[website](https://lunaui.cc)*
 ## Luna ☂️
-__Angelo Santos__ <br>
+__A. Santos__ <br>
 Student in CST @ BCIT<br>
 
 supporter of FOSS development and programs ❤️
