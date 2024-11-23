@@ -38,6 +38,14 @@ Shell: CMD (With Clink + oh-my-posh)
 DE: Fluent
 WN: Desktop Window Manager
 Terminal: Windows Console
+
+OLD PC (now my server for stuff)
+--------------------------------------------
+OS: Windows 10
+SHELL: CMD
+DE: Fluent
+WN: Komorebi
+Terminal: PowerShell
 ```
 
 <!---
