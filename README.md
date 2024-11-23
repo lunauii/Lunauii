@@ -1,6 +1,4 @@
-FOSS ❤️
-
-## My Setup
+lunaui
 ```
 BL: GRUB (Catppuccin Theme)
 
