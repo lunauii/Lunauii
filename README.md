@@ -1,33 +1,12 @@
-lunaui
-```
-BL: GRUB (Catppuccin Theme)
+<div>
+  <img height="80rem" src="https://neko.lunaui.cc/res/images/luna-logo.png">
+  <h2>part time programmer, full time lunaui.</h2>
+</div>
 
-BOOT 1
---------------------------------------------
-OS: Arch Linux x86_64
-Shell: zsh (oh-my-posh + oh-my-zsh)
-DE: KDE Plasma
-WM: KWin (Wayland)
-Terminal: yakuake
+### hello! :wave:
+I am a CST student at the British Columbia Institute of Technology (BCIT) and make random applications and websites here and there. feel free to check out my repositories!
 
-BOOT 2
---------------------------------------------
-OS: Windows 11
-Shell: CMD (With Clink + oh-my-posh)
-DE: Fluent
-WN: Desktop Window Manager
-Terminal: Windows Console
-
-OLD PC (now my server for stuff)
---------------------------------------------
-OS: Windows 10
-SHELL: CMD
-DE: Fluent
-WN: Komorebi
-Terminal: PowerShell
-```
-
-<!---
-Lunauii/Lunauii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=lunauii&theme=omni&show_icons=true">
+  <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunauii&layout=donut&theme=omni&show_icons=true">
+</div>
