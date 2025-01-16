@@ -1,6 +1,6 @@
 <div>
   <img height="80rem" src="https://neko.lunaui.cc/res/images/luna-logo.png">
-  <h2>part time programmer, full time lunaui.</h2>
+  <h2></h2>
 </div>
 
 ### hi! :wave:
