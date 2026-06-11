@@ -4,7 +4,7 @@
 </div>
 
 ### hi! :wave:
-I am a CST student at the British Columbia Institute of Technology (BCIT) and make random applications and websites here and there whenever I feel like it. Feel free to check out my repositories!
+I am a BScACS student at the British Columbia Institute of Technology (BCIT) and make random applications and websites here and there whenever I feel like it. Feel free to check out my repositories!
 
 ###
 
